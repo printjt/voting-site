@@ -1,6 +1,4 @@
-import 'package:dotted_border/dotted_border.dart';
-import 'package:dropdown_button2/dropdown_button2.dart';
-import 'package:file_picker/file_picker.dart';
+
 import 'package:get/get.dart';
 import 'package:flutter/material.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
